@@ -130,6 +130,8 @@ analyze_dns_logs() {
     fi
 }
 
+# NUEVAS FUNCIONES AGREGADAS EN EL PASO 5:
+
 # Análisis avanzado de logs HTTP con estadísticas detalladas
 analyze_http_comprehensive() {
     local logfile="$1"
@@ -219,6 +221,7 @@ analyze_comprehensive() {
     done
 }
 
+# FUNCIÓN analyze_all_logs MODIFICADA para incluir análisis comprensivo:
 # Análisis principal de todos los logs
 analyze_all_logs() {
     local start_time
