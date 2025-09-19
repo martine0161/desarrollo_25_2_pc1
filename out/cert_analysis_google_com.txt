@@ -1,0 +1,12 @@
+=== Análisis de Certificado para google.com ===
+| Información del Certificado |
+subject=CN=*.google.com
+issuer=C=US, O=Google Trust Services, CN=WR2
+notBefore=Aug 25 08:39:47 2025 GMT
+notAfter=Nov 17 08:39:46 2025 GMT
+=== Análisis de Certificado para google.com ===
+| Información del Certificado |
+subject=CN=*.google.com
+issuer=C=US, O=Google Trust Services, CN=WR2
+notBefore=Aug 25 08:39:47 2025 GMT
+notAfter=Nov 17 08:39:46 2025 GMT
