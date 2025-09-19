@@ -1,0 +1,3 @@
+TLS Handshakes: 1
+Errores SSL/TLS: 1
+Eventos de certificados: 2

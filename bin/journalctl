@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "Nov 15 10:23:15 host sshd: TLS handshake completed successfully"
+echo "Nov 15 10:24:32 host nginx: SSL error: certificate verification failed"
+echo "Nov 15 10:25:45 host httpd: TLS 1.3 handshake with client completed"
+echo "Nov 15 10:26:12 host postfix: certificate will expire in 30 days"
