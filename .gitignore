@@ -1,0 +1,5 @@
+out/
+dist/
+*.tmp
+*.log
+!test_data/*.log
