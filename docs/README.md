@@ -108,9 +108,9 @@ npm install -g bats
 - [x] Documentación base
 
 ### Sprint 2 
-- [ ] Expansión de pruebas Bats (Alumno 3)
-- [ ] Análisis HTTP/DNS (Alumno 1)
-- [ ] Integración TLS/journalctl (Alumno 2)
+- [ ] Expansión de pruebas Bats
+- [ ] Análisis HTTP/DNS 
+- [ ] Integración TLS/journalctl
 
 ### Sprint 3 
 - [ ] Makefile con caché incremental
@@ -124,7 +124,7 @@ npm install -g bats
 - Idempotencia verificada en cada ejecución
 
 ## Contribución
-1. Trabajar en rama personal: `rama/alumno3`
+1. Trabajar en rama personal: `rama/diego`
 2. Commits pequeños y descriptivos en español
 3. PRs hacia `develop` con descripción completa
 4. Fusión a `main` solo al final del sprint
